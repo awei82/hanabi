@@ -10,3 +10,8 @@
 
 [The Hanabi Challenge: A New Frontier for AI Research](https://yawgmoth.github.io/images/hanabipaper.pdf)
 
+TODO
+
+look at discard/draw card - fix order of discard/draw
+
+fix hint updating
